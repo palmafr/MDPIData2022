@@ -9,5 +9,5 @@ The project has been structured as follows:
 5. "sonarqube-comparison.ipynb" - the file where the results produced by sonarqube is compared with the results produced by our machine learning models.
 ## Currently in progress
 1. Adding more advanced machine learning models / ensemble learning techniques to the system.
-2. ~~Adding newer systems like Apache Struts2-core.~~
+2. Adding newer systems like Apache Log4j.
 3. Weighted methods to improve precision / recall.
