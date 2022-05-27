@@ -1,5 +1,5 @@
 # Vulnerability prediction using source code metrics
-**Authors:** Sundarakrishnan Ganesh and Dr. Francis Palma. 
+**Authors:** Sundarakrishnan Ganesh, Dr. Francis Palma and Tobias Ohlsson
 ## File structure
 The project has been structured as follows:
 1. "/datasets" - to collect all the vulnerability datasets for relevant open source projects.
