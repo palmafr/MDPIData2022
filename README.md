@@ -5,9 +5,9 @@
 The project has been structured as follows:
 1. "/datasets" - to collect all the vulnerability datasets for relevant open source projects.
 2. "/images" - to store all the images / screenshots, which are required to explain the process.
-3. "apache-tomcat-vulnerability-prediction-models.ipynb" - the notebook file where updates are conducted iteratively. This is the file where the experimentation is done and observations are noted.
-4. "ml-models.ipynb" - the file where a stable iterative conclusion of an experiment is stored.
-5. "sonarqube-comparison.ipynb" - the file where the results produced by sonarqube is compared with the results produced by our machine learning models.
+3. "/old_files" - the directory where all the deprecated files are stored.
+4. "/experiments" - the directory with all the .ipynb files required for each conducted experiment.
+5. "ml-models.ipynb" - the file where a stable iterative conclusion of an experiment is stored.
 
 ## Currently in progress
 1. ~~Adding more advanced machine learning models / ensemble learning techniques to the system.~~
