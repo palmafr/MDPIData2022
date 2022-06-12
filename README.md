@@ -12,8 +12,7 @@ The project has been structured as follows:
 ## Currently in progress
 1. ~~Adding more advanced machine learning models / ensemble learning techniques to the system.~~
 2. ~~Adding newer systems like Struts2-core.~~
-3. Hyper-parameter tuning using GridSearchCV.
-4. Further model optimizations.
-5. Optimized ensemble implementation.
-6. Weighted methods to improve precision / recall.
-7. Fixing overfitting.
+3. Hyper-parameter tuning using GridSearchCV. (**DROPPED**)
+4. ~~Optimized ensemble implementation.~~
+5. ~~Weighted methods to improve precision / recall.~~
+6. Cross checking experiments.
