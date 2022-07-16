@@ -15,4 +15,8 @@ The project has been structured as follows:
 3. Hyper-parameter tuning using GridSearchCV. (**DROPPED**)
 4. ~~Optimized ensemble implementation.~~
 5. ~~Weighted methods to improve precision / recall.~~
-6. Cross checking experiments.
+6. ~~Cross checking experiments.~~
+
+## Future work
+1. Neural network implementation.
+2. Data Normalization between datasets.
